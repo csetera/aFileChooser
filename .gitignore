@@ -52,3 +52,8 @@ Thumbs.db
 
 # backup files
 *.bak
+
+# Gradle generation folders
+build/
+.gradle/
+
